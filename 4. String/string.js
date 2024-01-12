@@ -96,3 +96,6 @@ let displayMessage = "I am learning JavaScript";
         console.log(i);
     }
 }
+
+
+console.log(displayMessage.length); // to display the lenght t]of the given String

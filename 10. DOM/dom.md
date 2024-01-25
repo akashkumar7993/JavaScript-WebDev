@@ -1,3 +1,3 @@
-<div> 
-<h1 style="align-item: center;">What is Dom</h1>
+<div align="center"> 
+<h1 >What is Dom</h1>
 </div>

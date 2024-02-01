@@ -3,7 +3,7 @@
  * https://github.com/akashkumar7993
  */
 
-let users = ["akashkumar", "AshishJangra27"];
+let users = ["akashkumar", "Ashishkumar"];
 
 let arrOfPromises = users.map((user) =>
   fetch(`https://api.github.com/users/${user}`)

@@ -20,8 +20,8 @@ const loggedInStatus = {
   };
   
   const user = {
-    name: "prakash",
-    role: "mentor",
+    name: "akash",
+    role: "learner",
     __proto__: admin,
   };
   console.log(user);

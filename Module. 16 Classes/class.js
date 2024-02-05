@@ -15,9 +15,9 @@ class User {
     }
   }
   
-  const user1 = new User("Prakash", "Mentor", false, true);
-  const user2 = new User("Ashish", "Mentor", false, true);
-  const user3 = new User("Sakshi", "Mentor", false, true);
+  const user1 = new User("akash", "learner", false, true);
+  const user2 = new User("Ashish", "learner", false, true);
+  const user3 = new User("Sakshi", "learner", false, true);
   console.log(user1.displayInfo());
   console.log(user2);
   console.log(user3);

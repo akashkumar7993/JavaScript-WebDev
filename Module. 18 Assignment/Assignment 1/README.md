@@ -1,0 +1,1 @@
+Here is a list of items. Add a remove button for every item. With every click of the remove button, remove one item from the list.

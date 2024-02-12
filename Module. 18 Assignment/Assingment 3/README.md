@@ -3,63 +3,63 @@
 <p>
 const clothingStock = [ </br>
  {  </br>
-   id: "1",
-   color: "red",
-   category: "men shirt",
-   item: "Regular Fit Men Shirt",
-   inStock: true
- },
- {
-   id: "2",
-   color: "green",
-   category: "women shirt",
-   item: "Slim Fit Women Shirt",
-   inStock: true
- },
- {
-   id: "3",
-   color: "blue",
-   category: "men shirt",
-   item: "Oversized Men Shirt",
-   inStock: false
- },
- {
-   id: "4",
-   color: "yellow",
-   category: "men tshirt",
-   item: "Regular Fit Men Tshirt",
-   inStock: false
- },
+   id: "1", </br>
+   color: "red",    </br>
+   category: "men shirt",   </br>
+   item: "Regular Fit Men Shirt",   </br>
+   inStock: true    </br>
+ }, </br>
+ {  </br>
+   id: "2", </br>
+   color: "green",  </br>
+   category: "women shirt", </br>
+   item: "Slim Fit Women Shirt",    </br>
+   inStock: true    </br>
+ }, </br>
+ {  </br>
+   id: "3", </br>
+   color: "blue",   </br>
+   category: "men shirt",   </br>
+   item: "Oversized Men Shirt", </br>
+   inStock: false   </br>
+ }, </br>
+ {  </br>
+   id: "4", </br>
+   color: "yellow", </br>
+   category: "men tshirt",  </br>
+   item: "Regular Fit Men Tshirt",  </br>
+   inStock: false   </br>
+ }, </br>
  
  
-{
-   id: "5",
-   color: "magenta",
-   category: "women jeans",
-   item: "Ankle Lenght Women Jeans",
-   inStock: true
- },
- {
-   id: "6",
-   color: "yellow",
-   category: "men shirt",
-   item: "Casual Fit Men Shirt",
-   inStock: true
- },
- {
-   id: "7",
-   color: "green",
-   category: "men jeans",
-   item: "Carrot Fit Men Jeans",
-   inStock: true
- },
- {
-   id: "8",
-   color: "red",
-   category: "women shirt",
-   item: "Casual Fit Women Shirt",
-   inStock: false
- }
+{   </br>
+   id: "5", </br>
+   color: "magenta",    </br>
+   category: "women jeans", </br>
+   item: "Ankle Lenght Women Jeans",    </br>
+   inStock: true    </br>
+ }, </br>
+ {  </br>
+   id: "6", </br>
+   color: "yellow", </br>
+   category: "men shirt",   </br>
+   item: "Casual Fit Men Shirt",    </br>
+   inStock: true    </br>
+ }, </br>
+ {  </br>
+   id: "7", </br>   
+   color: "green",  </br>
+   category: "men jeans",   </br>
+   item: "Carrot Fit Men Jeans",    </br>
+   inStock: true    </br>   
+ }, </br>
+ {  </br>
+   id: "8", </br>
+   color: "red",    </br>
+   category: "women shirt", </br>
+   item: "Casual Fit Women Shirt", </br> 
+   inStock: false   </br>
+ }  </br>
 ];
 </p>
 

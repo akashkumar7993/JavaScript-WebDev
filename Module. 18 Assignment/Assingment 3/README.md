@@ -1,8 +1,8 @@
 <h1> Given the below data for clothing stock.</h1>
 
 <p>
-const clothingStock = [
- {
+const clothingStock = [ </br>
+ {  </br>
    id: "1",
    color: "red",
    category: "men shirt",

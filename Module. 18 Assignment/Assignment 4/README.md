@@ -1,0 +1,1 @@
+Write a JavaScript program to add items to favorites from the drop down list. If you select any item that should be added to the list and be displayed on the ui, if you click on the added item again then it should not add the same item again.

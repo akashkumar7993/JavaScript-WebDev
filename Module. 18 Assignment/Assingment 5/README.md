@@ -1,0 +1,1 @@
+Write a JavaScript program to highlight the word with more than 5 characters with green background.

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Page Title</title>
+</head>
+
+<body>
+    <h2>Learning Javascript</h2>
+    <p id="para">
+        In this exercise you have to highlight word that have more than 5
+        characters with green background
+    </p>
+    <script>
+        let para = document.getElementById("para");
+        para.innerHTML = para.innerText
+          .split(" ")
+          .map((word) =>
+            word.length > 5
+              ? `<span style="background-color:green; color:white">${word}</span>`
+              : word
+          )
+          .join(" ");
+        
+    </script>
+
+</html>

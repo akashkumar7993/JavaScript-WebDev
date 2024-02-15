@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Page Title</title>
+    <style>
+        #table,
+        td {
+          border: 1px solid black;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Welcome To GFG</h2>
+    <table id="table">
+        <tr>
+            <td>Row1 Cell1</td>
+            <td>Row1 Cell2</td>
+            <td>Row1 Cell3</td>
+        </tr>
+        <tr>
+            <td>Row2 Cell1</td>
+            <td>Row2 Cell2</td>
+            <td>Row2 Cell3</td>
+        </tr>
+    </table>
+    <button id="insert">Insert Row</button>
+    <script>
+        let table = document.getElementById("table");
+        let insertButton = document.getElementById("insert");
+        
+        insertButton.addEventListener("click", () => {
+          let row = table.insertRow(0);
+          for (let i = 0; i < 3; i++) {
+            let x = row.insertCell(i);
+            x.innerText = `New Cell${i + 1}`;
+          }
+        });
+        
+    </script>
+
+</html>

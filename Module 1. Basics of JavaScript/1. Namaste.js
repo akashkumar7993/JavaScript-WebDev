@@ -1,5 +1,5 @@
 /**
- * First Program - Show Hello Geeks on Console
+ * First Program - Show Namaste on Console
  * Understand what is console.
 */
 

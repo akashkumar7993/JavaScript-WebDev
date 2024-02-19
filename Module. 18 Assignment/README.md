@@ -1,0 +1,1 @@
+Given an object obj, we have to invert its key and value for each entry. Inversion will result in value being used as key and key as value.

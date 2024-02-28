@@ -2,6 +2,8 @@
 
 JavaScript Course from Zero to Advance. This repository for Assignment & Class Notes taken during JavaScript Learning Proces. #javascript
 
+# 🎨 Contents
+
 
 # 🎨 Contents
 This repository contains a Collection of Assignments & Class Notes, which help you understand the concepts of JavaScript.

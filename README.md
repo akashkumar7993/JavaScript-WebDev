@@ -6,9 +6,13 @@ JavaScript Course from Zero to Advance. This repository for Assignment & Class N
 This repository contains a Collection of Assignments & Class Notes, which help you understand the concepts of JavaScript.
 
 # 📚 Module 01 - Basics Of JavaScript
-- Javascript Variables
-- Variable Naming Convention
-- Data Types
+- Javascript `Variables`
+- Variable `Naming Convention`
+- `Data Types`
+- Concatenation and `Template Literal`
+- JavaScript `Arithmetic Operators`
+- `Type conversion`
+- `ReadlineSync`
 # 📚 Module 02 - JavaScript Fundamentals
 # 📚 Module 03 - Functions part - 1
 # 📚 Module 04 - String

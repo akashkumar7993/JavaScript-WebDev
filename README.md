@@ -14,6 +14,7 @@ This repository contains a Collection of Assignments & Class Notes, which help y
 - `Type conversion`
 - `ReadlineSync`
 # 📚 Module 02 - JavaScript Fundamentals
+- Conditional-Statements
 # 📚 Module 03 - Functions part - 1
 # 📚 Module 04 - String
 # 📚 Module 05 - Arrays
